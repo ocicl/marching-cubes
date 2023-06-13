@@ -1,0 +1,10 @@
+* marching-cubes
+
+A marching cubes implementation based on Paul Bourke's
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/takagi/marching-cubes.git   |
+| commit  | 5206382  |
+| systems | marching-cubes |
+|---------+-------------------------------------------|
+
